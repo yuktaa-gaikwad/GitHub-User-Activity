@@ -54,6 +54,7 @@ python github_gui.py
 
 ## **💜 Screenshots**  
 _(Add a screenshot of your GUI here)_  
+![image](https://github.com/user-attachments/assets/8958cfa5-1aa7-4437-8321-d60a2894b699)
 
 ---
 
@@ -76,6 +77,6 @@ This project is **open-source** under the MIT License.
 ---
 
 ### **💌 Connect With Me**
-[GitHub](https://github.com/yuktaa-gaikwad) | [Instagram](https://linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile)  
+[GitHub](https://github.com/yuktaa-gaikwad) 
 
 ---
