@@ -1,8 +1,6 @@
 # **🌸 GitHub Activity Viewer GUI 🌸**  
 _A stylish and elegant Tkinter-based GUI to fetch and display recent GitHub activity._  
 
-![GitHub Activity Viewer](https://via.placeholder.com/1000x300/FFC0CB/000000?text=GitHub+Activity+Viewer)  
-
 ---
 
 ## **✨ Features**
@@ -38,23 +36,27 @@ python github_gui.py
 2️⃣ Click on **"Fetch Activity"**  
 3️⃣ View **recent events** like commits, issues, stars ⭐  
 
----
-
-## **📦 Deployment Options**
-### **For Windows Users (.exe)**
-You can **download the `.exe` file** from [GitHub Releases](https://github.com/your-username/github-activity-gui/releases).  
-
+---  
 ### **For Developers (Python)**
 Run:
 ```sh
 python github_gui.py
 ```
-
 ---
 
 ## **💜 Screenshots**  
-_(Add a screenshot of your GUI here)_  
+Command:
 ![image](https://github.com/user-attachments/assets/8958cfa5-1aa7-4437-8321-d60a2894b699)
+Command:
+![image](https://github.com/user-attachments/assets/2db2fbef-1bd3-4069-a2b9-0dc32f2f3e2a)
+Command:
+![image](https://github.com/user-attachments/assets/4f2396d2-d15e-4d3b-a174-24b046df7074)
+Command:
+![image](https://github.com/user-attachments/assets/7981a3e9-787d-4d0d-b234-bf7362277bc0)
+UI:
+![image](https://github.com/user-attachments/assets/8ba934e1-89fa-4996-a1c3-9b293a48fe6b)
+GUI(Tkinter):
+![image](https://github.com/user-attachments/assets/af92d6b1-a53e-4320-9ecc-8fe1a01bd3b9)
 
 ---
 
